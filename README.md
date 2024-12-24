@@ -1,3 +1,6 @@
+<div style="margin-bottom:30px;">
+  <a href="https://app.daily.dev/sachinyadav90"><img src="https://api.daily.dev/devcards/v2/4AIi9tCdWFw1mkIzwhJP8.png?type=wide&r=lxy" width="652" alt="Sachin Yadav's Dev Card"/></a>
+</div>
 <h1 align="center">Hey 👋 I am Sachin Yadav</h1>
 
 ###
